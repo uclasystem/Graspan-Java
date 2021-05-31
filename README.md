@@ -63,11 +63,10 @@ Participate in our discussion group, [GraspanMeet](https://groups.google.com/d/f
 
 ## Project Contributors
 
-* [**Kai Wang**](http://www.ics.uci.edu/~wangk7/) - *PhD Student, UCI* 
-* [**Aftab Hussain**](http://www.ics.uci.edu/~aftabh/) - *PhD Student, UCI* 
-* [**Zhiqiang Zuo**](http://zuozhiqiang.bitbucket.io/) - *Postdoc Scholar, UCI* 
-* [**Harry Xu**](http://www.ics.uci.edu/~guoqingx/) - *Assistant Professor, UCI* 
+* [**Kai Wang**](http://www.ics.uci.edu/~wangk7/) - *Graduated; now at Facebook AI* 
+* [**Aftab Hussain**](http://www.ics.uci.edu/~aftabh/) - *Graduated* 
+* [**Zhiqiang Zuo**](http://zuozhiqiang.bitbucket.io/) - *Assistant Professor, Nanjing University* 
+* [**Harry Xu**](http://www.ics.uci.edu/~guoqingx/) - *Associate Professor, UCLA* 
 * [**Ardalan Sani**](http://www.ics.uci.edu/~ardalan/) - *Assistant Professor, UCI* 
-* **John Thorpe** - *Undergraduate Student, UCI*
-* **Sung-Soo Son** - *Visiting Undergraduate Student, UCI*
-* [**Khanh Ngyuen**](http://www.ics.uci.edu/~khanhtn1/) - *PhD Student, UCI*
+* **John Thorpe** - *Ph.D. student, UCLA*
+* [**Khanh Ngyuen**](https://khanhtn.engr.tamu.edu/) - *Assistant Professor, TAMU*
